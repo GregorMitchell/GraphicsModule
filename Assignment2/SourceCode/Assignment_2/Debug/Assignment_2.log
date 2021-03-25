@@ -1,0 +1,64 @@
+﻿  sphere.cpp
+  wrapper_glfw.cpp
+  assignment2.cpp
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(223,26): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(224,26): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(225,26): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(226,26): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(227,26): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(228,26): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(291,16): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(292,16): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(293,18): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(294,16): warning C4129: 'o': unrecognized character escape sequence
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(531,19): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(613,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(614,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(618,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(619,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(620,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\assignment2.cpp(621,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  points2.cpp
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\points2.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\points2.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+  terrain_object.cpp
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(357,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(383,14): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(384,15): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(385,15): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(402,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(403,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\terrain_object.cpp(411,23): warning C4018: '<': signed/unsigned mismatch
+  tiny_loader_texture.cpp
+C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Assignment_2\tiny_loader_texture.cpp(96,25): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+glfw3D.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(context.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(init.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(input.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(monitor.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(vulkan.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(window.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_init.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_joystick.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_monitor.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_time.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_tls.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_window.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(wgl_context.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(egl_context.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glfw.pdb'; linking object as if no debug info
+glloadD.lib(gl_load.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glloadD.pdb'; linking object as if no debug info
+glloadD.lib(gl_load_cpp.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load_cpp.obj)' or at 'C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\glloadD.pdb'; linking object as if no debug info
+  Assignment_2.vcxproj -> C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\graphics_examples\Debug\Assignment_2.exe

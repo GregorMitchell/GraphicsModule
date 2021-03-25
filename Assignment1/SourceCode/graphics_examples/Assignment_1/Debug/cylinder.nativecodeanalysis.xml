@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\common\</FILEPATH>
+      <FILENAME>cylinder.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cylinder::cylinderBufferObject' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cylinder::{ctor}</FUNCTION>
+    <DECORATED>??0Cylinder@@QAE@U?$vec@$02M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Cylinder::cylinderBufferObject</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\common\</FILEPATH>
+      <FILENAME>cylinder.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cylinder::cylinderNormals' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cylinder::{ctor}</FUNCTION>
+    <DECORATED>??0Cylinder@@QAE@U?$vec@$02M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Cylinder::cylinderNormals</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\common\</FILEPATH>
+      <FILENAME>cylinder.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cylinder::cylinderColours' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cylinder::{ctor}</FUNCTION>
+    <DECORATED>??0Cylinder@@QAE@U?$vec@$02M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Cylinder::cylinderColours</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\common\</FILEPATH>
+      <FILENAME>cylinder.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cylinder::cylinderElementbuffer' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cylinder::{ctor}</FUNCTION>
+    <DECORATED>??0Cylinder@@QAE@U?$vec@$02M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Cylinder::cylinderElementbuffer</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\common\</FILEPATH>
+      <FILENAME>cylinder.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cylinder::num_pvertices' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cylinder::{ctor}</FUNCTION>
+    <DECORATED>??0Cylinder@@QAE@U?$vec@$02M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Cylinder::num_pvertices</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\gmitchell2000\OneDrive\Documents\4th_Year\Graphics\graphics_examples\common\</FILEPATH>
+      <FILENAME>cylinder.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cylinder::isize' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cylinder::{ctor}</FUNCTION>
+    <DECORATED>??0Cylinder@@QAE@U?$vec@$02M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Cylinder::isize</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
